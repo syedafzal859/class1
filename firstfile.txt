@@ -1,2 +1,3 @@
 hello afzal
 bye afzal
+dont know how to relsolve this issue
